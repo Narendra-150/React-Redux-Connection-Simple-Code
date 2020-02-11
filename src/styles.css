@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+button {
+  height: 2em;
+  width: 15%;
+  padding: 1.5em auto;
+  margin: 2em;
+  background-color: #feb1c0;
+  border: none;
+  border-radius: 3px;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
